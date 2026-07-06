@@ -6640,7 +6640,6 @@ message TrafficSign
                 // Noise protection with time limit.
                 // <br>
                 // See [\c Noise protection](\ref NOISE_PROTECTION_TEXT).
-                // </tt>
                 // </td>
                 // </tr>
                 // <tr>
